@@ -1,0 +1,11 @@
+body {
+    background-color: #ffffff; /* Putih */
+    color: #000000; /* Hitam */
+}
+.navbar, .footer {
+    background-color: #000000; /* Hitam */
+    color: #FFD700; /* Emas */
+}
+button, a {
+    color: #FFD700; /* Emas */
+}
